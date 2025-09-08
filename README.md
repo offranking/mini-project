@@ -74,7 +74,7 @@ Resquest pull by TOM
 ### the last pictures show the confirmation of marging of the both
 <img width="945" height="802" alt="Screenshot 2025-09-08 at 3 31 39 pm" src="https://github.com/user-attachments/assets/03cb8056-001d-44c0-b42b-30b9f31955e3" />
 
-The pull request successfully marge and close
+The pull request successfully marge and closes
 
 <img width="942" height="780" alt="Screenshot 2025-09-08 at 3 33 01 pm" src="https://github.com/user-attachments/assets/36570cb8-3af2-4606-8a9e-0a9cdba43196" />
 
